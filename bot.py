@@ -97,7 +97,7 @@ async def op(_, m: Message):
                             "💬 Community", url="https://t.me/Server_z")
                     ], [
                         InlineKeyboardButton(
-                            "➕ Add me to your Chat ➕", url="https://t.me/accepttguserBot?startgroup")
+                            "➕ Add me to your Chat ➕", url="https://t.me/accepttgusersBot?startgroup")
                     ]
                 ]
             )
@@ -109,7 +109,7 @@ async def op(_, m: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            "💁‍♂️ Start me private 💁‍♂️", url="https://t.me/accepttguserbot?start=start")
+                            "💁‍♂️ Start me private 💁‍♂️", url="https://t.me/accepttgusersbot?start=start")
                     ]
                 ]
             )
@@ -144,7 +144,7 @@ async def chk(_, cb: CallbackQuery):
                             "💬 Community", url="https://t.me/Server_z")
                     ], [
                         InlineKeyboardButton(
-                            "➕ Add me to your Chat ➕", url="https://t.me/accepttguserbot?startgroup")
+                            "➕ Add me to your Chat ➕", url="https://t.me/accepttgusersbot?startgroup")
                     ]
                 ]
             )
