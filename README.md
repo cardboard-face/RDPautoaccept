@@ -1,5 +1,5 @@
 
-👾 Hey I'll Accept telegram join requests. Easy to use and simple.
+
 
 <h2>〽️ Deploy Me </h2> 
   
@@ -20,7 +20,7 @@
 
 </details>
 
-## 🏷 Environment Variables
+## 🏷 ENV VARS
   - `API_ID` - Your Telegram API ID.Get it [Here](my.telegram.org)
   - `API_HASH` - Your Telegram API HASH.Get it [Here](my.telegram.org)
   - `MONGO_URI` - Add MongoDB Database URI.
